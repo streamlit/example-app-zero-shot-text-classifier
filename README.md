@@ -17,7 +17,6 @@ You decide!
 
 - App created by [Datachaz](https://twitter.com/DataChaz) using 🎈[Streamlit](https://streamlit.io/) and [HuggingFace](https://huggingface.co/inference-api)'s [Distilbart-mnli-12-3](https://huggingface.co/valhalla/distilbart-mnli-12-3) model.
 - Deployed on [Streamlit Cloud](https://streamlit.io/cloud) ☁️
-- Created as part of the [30 days of streamlit challenge](https://blog.streamlit.io/30-days-of-streamlit/)
 
 <img src ="https://user-images.githubusercontent.com/27242399/188645264-5d60d9d9-da7c-4a46-8681-371891655929.png" width="600px"></img>
 
