@@ -1,1 +1,1 @@
-# example-app-zero-shot-text-classifier
+# Zero-shot text classifier for BUILD 22
