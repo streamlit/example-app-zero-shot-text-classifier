@@ -5,9 +5,6 @@ import pandas as pd
 # Import for API calls
 import requests
 
-# Import for navbar
-from streamlit_option_menu import option_menu
-
 # Import for dyanmic tagging
 from streamlit_tags import st_tags, st_tags_sidebar
 
