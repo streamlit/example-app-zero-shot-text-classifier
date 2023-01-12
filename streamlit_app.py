@@ -344,7 +344,7 @@ with MainTab:
 
         with cs:
 
-            @st.cache
+            @st.experimental_memo
             def convert_df(df):
                 return df.to_csv().encode("utf-8")
 
