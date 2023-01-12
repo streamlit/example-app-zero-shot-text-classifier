@@ -29,7 +29,7 @@ c1, c2 = st.columns([0.32, 2])
 with c1:
 
     st.image(
-        "images/SF_logo_icon.png",
+        "images/logo.png",
         width=85,
     )
 
@@ -52,16 +52,7 @@ if not "valid_inputs_received" in st.session_state:
 
 st.sidebar.write("")
 
-# We'll add the Hugging Face logo to the sidebar.
 # For elements to be displayed in the sidebar, we need to add the sidebar element in the widget.
-
-with c1:
-
-    st.sidebar.image(
-        "images/HFlogo.png",
-        width=50,
-    )
-
 
 # We create a text input field for users to enter their API key.
 
